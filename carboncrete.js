@@ -58408,7 +58408,7 @@ function LocationSelector({ location: e, setLocation: t, styleUrl: n = "https://
 		})]
 	});
 }
-var cdnUrl = "https://cdn.jsdelivr.net/gh/TheLeverRoom/LRCarbonCrete@latest/";
+var cdnUrl = "https://cdn.jsdelivr.net/gh/TheLeverRoom/LRCarbonCrete@latest";
 function App() {
 	let [e, t] = (0, import_react.useState)([]), [n, i] = (0, import_react.useState)([]), [a, o] = (0, import_react.useState)([]), [s, c] = (0, import_react.useState)("17.5"), [l, d] = (0, import_react.useState)(null), [f, h] = (0, import_react.useState)(100), [g, _] = (0, import_react.useState)(50), [v, y] = (0, import_react.useState)(null), [b, x] = (0, import_react.useState)([]);
 	return (0, import_react.useEffect)(() => {
