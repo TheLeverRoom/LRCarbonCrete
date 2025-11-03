@@ -1,415 +1,9 @@
 [
   {
-    "name": "Avondale, Auckland",
-    "lon": 174.6970369,
-    "lat": -36.8967316,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Chch Hornby",
-    "lon": 172.5252201,
-    "lat": -43.5428906,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Alexandra",
-    "lon": 169.3921819,
-    "lat": -45.2550839,
-    "region": "Otago",
-    "island": "south"
-  },
-  {
-    "name": "Gisborne",
-    "lon": 178.0206487,
-    "lat": -38.661326,
-    "region": "Gisborne",
-    "island": "north"
-  },
-  {
-    "name": "Tairua",
-    "lon": 175.850199,
-    "lat": -36.999928,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Hutt Valley",
-    "lon": 175.0080217,
-    "lat": -41.1414958,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Whitianga",
-    "lon": 175.7024856,
-    "lat": -36.8331861,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Cromwell",
-    "lon": 169.1972881,
-    "lat": -45.0371308,
-    "region": "Otago",
-    "island": "south"
-  },
-  {
-    "name": "Bombay",
-    "lon": 174.9920563,
-    "lat": -37.1855384,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Masterton",
-    "lon": 175.6594413,
-    "lat": -40.9495524,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Rolleston",
-    "lon": 172.3850047,
-    "lat": -43.5966504,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Chch Bromley",
-    "lon": 172.70262516436333,
-    "lat": -43.53933802587871,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Christchurch",
-    "lon": 172.6363756659983,
-    "lat": -43.53212386270758,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Auckland",
-    "lon": 174.7631803,
-    "lat": -36.852095,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Twizel",
-    "lon": 170.0994145,
-    "lat": -44.257483,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Whakatane",
-    "lon": 176.9945977,
-    "lat": -37.9519223,
-    "region": "Bay of Plenty",
-    "island": "north"
-  },
-  {
-    "name": "Edendale",
-    "lon": 168.7850981,
-    "lat": -46.3144058,
-    "region": "Southland",
-    "island": "south"
-  },
-  {
-    "name": "Darfield",
-    "lon": 172.1087152,
-    "lat": -43.4882301,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Te Awamutu",
-    "lon": 175.3257827,
-    "lat": -38.0101564,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Wharehine Mangawhai",
-    "lon": 174.4157320698238,
-    "lat": -36.330453606741166,
-    "region": "Northland",
-    "island": "north"
-  },
-  {
-    "name": "Ashburton",
-    "lon": 171.7503327,
-    "lat": -43.9024396,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Hawera",
-    "lon": 174.2837207,
-    "lat": -39.5893462,
-    "region": "Taranaki",
-    "island": "north"
-  },
-  {
-    "name": "Amberley",
-    "lon": 172.7329869,
-    "lat": -43.1512956,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Stratford",
-    "lon": 174.2840888,
-    "lat": -39.3396858,
-    "region": "Taranaki",
-    "island": "north"
-  },
-  {
-    "name": "Auckland Silverdale",
-    "lon": 174.680664,
-    "lat": -36.6149005,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Levin",
-    "lon": 175.2865854,
-    "lat": -40.6218161,
-    "region": "Manawat\u016b-Whanganui",
-    "island": "north"
-  },
-  {
-    "name": "Auckland Henderson",
-    "lon": 174.6311378,
-    "lat": -36.8546021,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Wharehine Wellsford",
-    "lon": 174.52345876951395,
-    "lat": -36.2961661810469,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Whangamata",
-    "lon": 175.8719724,
-    "lat": -37.2063323,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Tauranga",
-    "lon": 176.167505,
-    "lat": -37.6859006,
-    "region": "Bay of Plenty",
-    "island": "north"
-  },
-  {
-    "name": "Silverdale",
-    "lon": 175.3304609,
-    "lat": -37.7933758,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Timaru",
-    "lon": 171.2509786,
-    "lat": -44.3930254,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Dunedin",
-    "lon": 170.5035755,
-    "lat": -45.8740984,
-    "region": "Otago",
-    "island": "south"
-  },
-  {
-    "name": "Kapiti",
-    "lon": 175.0507372339396,
-    "lat": -40.83178444444257,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Auckland Pukekohe",
-    "lon": 174.9024559,
-    "lat": -37.1998482,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Waihi",
-    "lon": 175.8403538,
-    "lat": -37.391462,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Balclutha",
-    "lon": 169.7398641,
-    "lat": -46.2377982,
-    "region": "Otago",
-    "island": "south"
-  },
-  {
     "name": "Albany",
     "lon": 174.7086478,
     "lat": -36.7279344,
     "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Tokoroa",
-    "lon": 175.8705389,
-    "lat": -38.2168677,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Hastings",
-    "lon": 176.8430781,
-    "lat": -39.6417678,
-    "region": "Hawke's Bay",
-    "island": "north"
-  },
-  {
-    "name": "Otaki",
-    "lon": 175.1470152,
-    "lat": -40.7585374,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Kawerau",
-    "lon": 176.7033298,
-    "lat": -38.0857434,
-    "region": "Bay of Plenty",
-    "island": "north"
-  },
-  {
-    "name": "Mosgiel",
-    "lon": 170.347348,
-    "lat": -45.8749828,
-    "region": "Otago",
-    "island": "south"
-  },
-  {
-    "name": "Whangarei",
-    "lon": 174.3194202,
-    "lat": -35.7275268,
-    "region": "Northland",
-    "island": "north"
-  },
-  {
-    "name": "City West",
-    "lon": 174.6557734,
-    "lat": -36.8744008,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Papakura",
-    "lon": 174.9446665,
-    "lat": -37.064265,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Culverden",
-    "lon": 172.8492958,
-    "lat": -42.7726605,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Fairlie",
-    "lon": 170.8289409,
-    "lat": -44.097582,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Wellington Belmont",
-    "lon": 174.9137231590433,
-    "lat": -41.18388155456254,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Waipapa",
-    "lon": 172.7570964,
-    "lat": -43.0591026,
-    "region": "Northland",
-    "island": "south"
-  },
-  {
-    "name": "Geraldine",
-    "lon": 171.2425898,
-    "lat": -44.0921039,
-    "region": "Canterbury",
-    "island": "south"
-  },
-  {
-    "name": "Avondale",
-    "lon": 174.69268477578322,
-    "lat": -36.89351837169444,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Blenheim",
-    "lon": 173.9545856,
-    "lat": -41.5118691,
-    "region": "Marlborough",
-    "island": "south"
-  },
-  {
-    "name": "Katikati",
-    "lon": 175.91541,
-    "lat": -37.5522269,
-    "region": "Bay of Plenty",
-    "island": "north"
-  },
-  {
-    "name": "Auckland Mt Wellington",
-    "lon": 174.8408998,
-    "lat": -36.913955,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Wellington",
-    "lon": 174.7772114,
-    "lat": -41.2887953,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Otorohanga",
-    "lon": 175.2112083,
-    "lat": -38.186037,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "East Tamaki, Auckland",
-    "lon": 174.8931962,
-    "lat": -36.9474802,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Paihia",
-    "lon": 174.0920879,
-    "lat": -35.2812407,
-    "region": "Northland",
     "island": "north"
   },
   {
@@ -420,88 +14,11 @@
     "island": "north"
   },
   {
-    "name": "Turangi",
-    "lon": 175.8089539,
-    "lat": -38.9887347,
-    "region": "Waikato",
+    "name": "Auckland City",
+    "lon": 174.7631803,
+    "lat": -36.852095,
+    "region": "Auckland",
     "island": "north"
-  },
-  {
-    "name": "Nelson",
-    "lon": 173.2836756,
-    "lat": -41.2710849,
-    "region": "Nelson",
-    "island": "south"
-  },
-  {
-    "name": "Hilderthorpe",
-    "lon": 171.0558629,
-    "lat": -44.9932117,
-    "region": "Otago",
-    "island": "south"
-  },
-  {
-    "name": "Taupo",
-    "lon": 176.0694773,
-    "lat": -38.6866197,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Waitara",
-    "lon": 174.2364324,
-    "lat": -39.0028236,
-    "region": "Taranaki",
-    "island": "north"
-  },
-  {
-    "name": "Whanganui",
-    "lon": 175.0519306,
-    "lat": -39.9324904,
-    "region": "Manawat\u016b-Whanganui",
-    "island": "north"
-  },
-  {
-    "name": "Mt Maunganui",
-    "lon": 176.1838841,
-    "lat": -37.6380218,
-    "region": "Bay of Plenty",
-    "island": "north"
-  },
-  {
-    "name": "Westport",
-    "lon": 171.6035684,
-    "lat": -41.754183,
-    "region": "West Coast",
-    "island": "south"
-  },
-  {
-    "name": "Cambridge",
-    "lon": 175.4691069,
-    "lat": -37.8917889,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Russell",
-    "lon": 174.1215291,
-    "lat": -35.2617916,
-    "region": "Northland",
-    "island": "north"
-  },
-  {
-    "name": "Thames",
-    "lon": 175.5418037,
-    "lat": -37.137983,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Gore",
-    "lon": 168.9447811,
-    "lat": -46.0984482,
-    "region": "Southland",
-    "island": "south"
   },
   {
     "name": "Auckland City",
@@ -511,23 +28,9 @@
     "island": "north"
   },
   {
-    "name": "East Tamaki",
-    "lon": 174.8931962,
-    "lat": -36.9474802,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Wharehine Matakana",
-    "lon": 174.71774510131556,
-    "lat": -36.35237956515545,
-    "region": "Auckland",
-    "island": "north"
-  },
-  {
-    "name": "Waiheke",
-    "lon": 175.0230196877195,
-    "lat": -36.78796880375739,
+    "name": "Auckland Henderson",
+    "lon": 174.6311378,
+    "lat": -36.8546021,
     "region": "Auckland",
     "island": "north"
   },
@@ -539,6 +42,139 @@
     "island": "north"
   },
   {
+    "name": "Auckland Mt Wellington",
+    "lon": 174.8408998,
+    "lat": -36.913955,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Auckland Pukekohe",
+    "lon": 174.9024559,
+    "lat": -37.1998482,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Auckland Silverdale",
+    "lon": 174.680664,
+    "lat": -36.6149005,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Avondale",
+    "lon": 174.69268477578322,
+    "lat": -36.89351837169444,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Avondale, Auckland",
+    "lon": 174.6970369,
+    "lat": -36.8967316,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Bombay",
+    "lon": 174.9920563,
+    "lat": -37.1855384,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "City West",
+    "lon": 174.6557734,
+    "lat": -36.8744008,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "East Tamaki",
+    "lon": 174.8931962,
+    "lat": -36.9474802,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "East Tamaki, Auckland",
+    "lon": 174.8931962,
+    "lat": -36.9474802,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Papakura",
+    "lon": 174.9446665,
+    "lat": -37.064265,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Silverdale",
+    "lon": 175.3304609,
+    "lat": -37.7933758,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Waiheke",
+    "lon": 175.0230196877195,
+    "lat": -36.78796880375739,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Wharehine Matakana",
+    "lon": 174.71774510131556,
+    "lat": -36.35237956515545,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Wharehine Wellsford",
+    "lon": 174.52345876951395,
+    "lat": -36.2961661810469,
+    "region": "Auckland",
+    "island": "north"
+  },
+  {
+    "name": "Katikati",
+    "lon": 175.91541,
+    "lat": -37.5522269,
+    "region": "Bay of Plenty",
+    "island": "north"
+  },
+  {
+    "name": "Kawerau",
+    "lon": 176.7033298,
+    "lat": -38.0857434,
+    "region": "Bay of Plenty",
+    "island": "north"
+  },
+  {
+    "name": "Mt Maunganui",
+    "lon": 176.1838841,
+    "lat": -37.6380218,
+    "region": "Bay of Plenty",
+    "island": "north"
+  },
+  {
+    "name": "Rotorua",
+    "lon": 176.2525434,
+    "lat": -38.136073,
+    "region": "Bay of Plenty",
+    "island": "north"
+  },
+  {
+    "name": "Tauranga",
+    "lon": 176.167505,
+    "lat": -37.6859006,
+    "region": "Bay of Plenty",
+    "island": "north"
+  },
+  {
     "name": "Te Puke",
     "lon": 176.3270238,
     "lat": -37.7853294,
@@ -546,9 +182,436 @@
     "island": "north"
   },
   {
-    "name": "Wanaka",
-    "lon": 169.1364637,
-    "lat": -44.6941691,
+    "name": "Whakatane",
+    "lon": 176.9945977,
+    "lat": -37.9519223,
+    "region": "Bay of Plenty",
+    "island": "north"
+  },
+  {
+    "name": "Gisborne",
+    "lon": 178.0206487,
+    "lat": -38.661326,
+    "region": "Gisborne",
+    "island": "north"
+  },
+  {
+    "name": "Hastings",
+    "lon": 176.8430781,
+    "lat": -39.6417678,
+    "region": "Hawke's Bay",
+    "island": "north"
+  },
+  {
+    "name": "Napier",
+    "lon": 176.917839,
+    "lat": -39.4902099,
+    "region": "Hawke's Bay",
+    "island": "north"
+  },
+  {
+    "name": "Levin",
+    "lon": 175.2865854,
+    "lat": -40.6218161,
+    "region": "Manawat\u016b-Whanganui",
+    "island": "north"
+  },
+  {
+    "name": "Palmerston North",
+    "lon": 175.6112388,
+    "lat": -40.356317,
+    "region": "Manawat\u016b-Whanganui",
+    "island": "north"
+  },
+  {
+    "name": "Wanganui",
+    "lon": 175.0519306,
+    "lat": -39.9324904,
+    "region": "Manawat\u016b-Whanganui",
+    "island": "north"
+  },
+  {
+    "name": "Whanganui",
+    "lon": 175.0519306,
+    "lat": -39.9324904,
+    "region": "Manawat\u016b-Whanganui",
+    "island": "north"
+  },
+  {
+    "name": "Dargaville",
+    "lon": 173.8685702,
+    "lat": -35.9412143,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Marsden Point",
+    "lon": 174.5011657,
+    "lat": -35.840312,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Paihia",
+    "lon": 174.0920879,
+    "lat": -35.2812407,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Russell",
+    "lon": 174.1215291,
+    "lat": -35.2617916,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Waipapa",
+    "lon": 173.91825912692607,
+    "lat": -35.20809623925488,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Whangarei",
+    "lon": 174.3194202,
+    "lat": -35.7275268,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Wharehine Mangawhai",
+    "lon": 174.4157320698238,
+    "lat": -36.330453606741166,
+    "region": "Northland",
+    "island": "north"
+  },
+  {
+    "name": "Hawera",
+    "lon": 174.2837207,
+    "lat": -39.5893462,
+    "region": "Taranaki",
+    "island": "north"
+  },
+  {
+    "name": "New Plymouth",
+    "lon": 174.0806474,
+    "lat": -39.0579941,
+    "region": "Taranaki",
+    "island": "north"
+  },
+  {
+    "name": "Normanby",
+    "lon": 174.2737842,
+    "lat": -39.5373412,
+    "region": "Taranaki",
+    "island": "north"
+  },
+  {
+    "name": "Stratford",
+    "lon": 174.2840888,
+    "lat": -39.3396858,
+    "region": "Taranaki",
+    "island": "north"
+  },
+  {
+    "name": "Waitara",
+    "lon": 174.2364324,
+    "lat": -39.0028236,
+    "region": "Taranaki",
+    "island": "north"
+  },
+  {
+    "name": "Cambridge",
+    "lon": 175.4691069,
+    "lat": -37.8917889,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Hamilton",
+    "lon": 175.281788,
+    "lat": -37.7878809,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Matamata",
+    "lon": 175.7732759,
+    "lat": -37.8095635,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Otorohanga",
+    "lon": 175.2112083,
+    "lat": -38.186037,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Tairua",
+    "lon": 175.850199,
+    "lat": -36.999928,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Taupo",
+    "lon": 176.0694773,
+    "lat": -38.6866197,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Te Awamutu",
+    "lon": 175.3257827,
+    "lat": -38.0101564,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Thames",
+    "lon": 175.5418037,
+    "lat": -37.137983,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Tokoroa",
+    "lon": 175.8705389,
+    "lat": -38.2168677,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Turangi",
+    "lon": 175.8089539,
+    "lat": -38.9887347,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Waihi",
+    "lon": 175.8403538,
+    "lat": -37.391462,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Whangamata",
+    "lon": 175.8719724,
+    "lat": -37.2063323,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Whitianga",
+    "lon": 175.7024856,
+    "lat": -36.8331861,
+    "region": "Waikato",
+    "island": "north"
+  },
+  {
+    "name": "Hutt Valley",
+    "lon": 175.0080217,
+    "lat": -41.1414958,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Kapiti",
+    "lon": 175.03772171459238,
+    "lat": -40.86850846466071,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Masterton",
+    "lon": 175.6594413,
+    "lat": -40.9495524,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Otaki",
+    "lon": 175.1470152,
+    "lat": -40.7585374,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Wellington",
+    "lon": 174.7772114,
+    "lat": -41.2887953,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Wellington Aotea Quay",
+    "lon": 174.7858728,
+    "lat": -41.2730528,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Wellington Belmont",
+    "lon": 174.9137231590433,
+    "lat": -41.18388155456254,
+    "region": "Wellington",
+    "island": "north"
+  },
+  {
+    "name": "Amberley",
+    "lon": 172.7329869,
+    "lat": -43.1512956,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Ashburton",
+    "lon": 171.7503327,
+    "lat": -43.9024396,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Chch Bromley",
+    "lon": 172.70262516436333,
+    "lat": -43.53933802587871,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Chch Hornby",
+    "lon": 172.5252201,
+    "lat": -43.5428906,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Christchurch",
+    "lon": 172.6363756659983,
+    "lat": -43.53212386270758,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Culverden",
+    "lon": 172.8492958,
+    "lat": -42.7726605,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Darfield",
+    "lon": 172.1087152,
+    "lat": -43.4882301,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Fairlie",
+    "lon": 170.8289409,
+    "lat": -44.097582,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Geraldine",
+    "lon": 171.2425898,
+    "lat": -44.0921039,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Rangiora",
+    "lon": 172.5961483,
+    "lat": -43.303171,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Rolleston",
+    "lon": 172.3850047,
+    "lat": -43.5966504,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Timaru",
+    "lon": 171.2509786,
+    "lat": -44.3930254,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Twizel",
+    "lon": 170.0994145,
+    "lat": -44.257483,
+    "region": "Canterbury",
+    "island": "south"
+  },
+  {
+    "name": "Blenheim",
+    "lon": 173.9545856,
+    "lat": -41.5118691,
+    "region": "Marlborough",
+    "island": "south"
+  },
+  {
+    "name": "Nelson",
+    "lon": 173.2836756,
+    "lat": -41.2710849,
+    "region": "Nelson",
+    "island": "south"
+  },
+  {
+    "name": "Alexandra",
+    "lon": 169.3921819,
+    "lat": -45.2550839,
+    "region": "Otago",
+    "island": "south"
+  },
+  {
+    "name": "Balclutha",
+    "lon": 169.7398641,
+    "lat": -46.2377982,
+    "region": "Otago",
+    "island": "south"
+  },
+  {
+    "name": "Cromwell",
+    "lon": 169.1972881,
+    "lat": -45.0371308,
+    "region": "Otago",
+    "island": "south"
+  },
+  {
+    "name": "Dunedin",
+    "lon": 170.5035755,
+    "lat": -45.8740984,
+    "region": "Otago",
+    "island": "south"
+  },
+  {
+    "name": "Hilderthorpe",
+    "lon": 171.0558629,
+    "lat": -44.9932117,
+    "region": "Otago",
+    "island": "south"
+  },
+  {
+    "name": "Mosgiel",
+    "lon": 170.347348,
+    "lat": -45.8749828,
+    "region": "Otago",
+    "island": "south"
+  },
+  {
+    "name": "Oamaru",
+    "lon": 170.9697933,
+    "lat": -45.0999833,
     "region": "Otago",
     "island": "south"
   },
@@ -560,18 +623,25 @@
     "island": "south"
   },
   {
-    "name": "Rangiora",
-    "lon": 172.5961483,
-    "lat": -43.303171,
-    "region": "Canterbury",
+    "name": "Wanaka",
+    "lon": 169.1364637,
+    "lat": -44.6941691,
+    "region": "Otago",
     "island": "south"
   },
   {
-    "name": "Palmerston North",
-    "lon": 175.6112388,
-    "lat": -40.356317,
-    "region": "Manawat\u016b-Whanganui",
-    "island": "north"
+    "name": "Edendale",
+    "lon": 168.7850981,
+    "lat": -46.3144058,
+    "region": "Southland",
+    "island": "south"
+  },
+  {
+    "name": "Gore",
+    "lon": 168.9447811,
+    "lat": -46.0984482,
+    "region": "Southland",
+    "island": "south"
   },
   {
     "name": "Invercargill",
@@ -581,13 +651,6 @@
     "island": "south"
   },
   {
-    "name": "Dargaville",
-    "lon": 173.8685702,
-    "lat": -35.9412143,
-    "region": "Northland",
-    "island": "north"
-  },
-  {
     "name": "Greymouth",
     "lon": 171.2079875,
     "lat": -42.4499469,
@@ -595,73 +658,10 @@
     "island": "south"
   },
   {
-    "name": "Napier",
-    "lon": 176.917839,
-    "lat": -39.4902099,
-    "region": "Hawke's Bay",
-    "island": "north"
-  },
-  {
-    "name": "Oamaru",
-    "lon": 170.9697933,
-    "lat": -45.0999833,
-    "region": "Otago",
+    "name": "Westport",
+    "lon": 171.6035684,
+    "lat": -41.754183,
+    "region": "West Coast",
     "island": "south"
-  },
-  {
-    "name": "Hamilton",
-    "lon": 175.281788,
-    "lat": -37.7878809,
-    "region": "Waikato",
-    "island": "north"
-  },
-  {
-    "name": "Rotorua",
-    "lon": 176.2525434,
-    "lat": -38.136073,
-    "region": "Bay of Plenty",
-    "island": "north"
-  },
-  {
-    "name": "Wanganui",
-    "lon": 175.0519306,
-    "lat": -39.9324904,
-    "region": "Manawat\u016b-Whanganui",
-    "island": "north"
-  },
-  {
-    "name": "Normanby",
-    "lon": 174.2737842,
-    "lat": -39.5373412,
-    "region": "Taranaki",
-    "island": "north"
-  },
-  {
-    "name": "Wellington Aotea Quay",
-    "lon": 174.7858728,
-    "lat": -41.2730528,
-    "region": "Wellington",
-    "island": "north"
-  },
-  {
-    "name": "Marsden Point",
-    "lon": 174.5011657,
-    "lat": -35.840312,
-    "region": "Northland",
-    "island": "north"
-  },
-  {
-    "name": "New Plymouth",
-    "lon": 174.0806474,
-    "lat": -39.0579941,
-    "region": "Taranaki",
-    "island": "north"
-  },
-  {
-    "name": "Matamata",
-    "lon": 175.7732759,
-    "lat": -37.8095635,
-    "region": "Waikato",
-    "island": "north"
   }
 ]
